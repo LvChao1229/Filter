@@ -1,0 +1,10 @@
+host, cdn.auth0.com, OpenAI
+HOST, challenges.cloudflare.com,OpenAI
+host, openaiapi-site.azureedge.net, OpenAI
+host-suffix, ai.com, OpenAI
+host-suffix, openai.com, OpenAI
+host-suffix, identrust.com,OpenAI
+host-suffix, vimeo.com, OpenAI
+host-suffix, vimeocdn.com, OpenAI
+host-suffix, hcaptcha.com, OpenAI
+host-suffix, akamaized.com, OpenAI
